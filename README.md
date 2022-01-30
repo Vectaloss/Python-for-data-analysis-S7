@@ -11,4 +11,5 @@ than all the variables at the beginning.
 We used 4 different algorythms and merged them at the end.
 You can find the dataset at https://archive.ics.uci.edu/ml/datasets/QSAR+biodegradation. 
 
+
 This project was a really interesting experience, and teatched us a lot about Python, Datavisualisation, Machine Learning, and how to explain a complex dataset ! 
